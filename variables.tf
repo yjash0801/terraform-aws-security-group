@@ -10,7 +10,7 @@ variable "sg_name" {
     #default = mongodb
 }
 
-variable "description" {
+variable "sg_description" {
     type = string
     #default = ""
 }
